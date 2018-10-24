@@ -31,6 +31,15 @@
 			<unfilledPath>./../art/transparent.png</unfilledPath>
 		</rating>
 		
+		<text name="md_description">
+			<pos>0.4 0.75</pos>
+			<size>0.6 0.2</size>
+			<color>ffffff</color>
+			<fontPath>./../art/Benguiat Bold.ttf</fontPath>
+			<fontSize>0.018</fontSize>
+			<forceUppercase>1</forceUppercase>
+		</text>
+		
 	</view>
 
 	<view name="detailed">	
